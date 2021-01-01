@@ -1,0 +1,14 @@
+1. Flask db init not working in command line
+PS C:\Users\swast\ToDoApp Folder> flask db init
+
+Error:
+
+flask : The term 'flask' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:1
++ flask db init
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (flask:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+    
+    
